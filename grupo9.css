@@ -1,11 +1,25 @@
 .nav{
-  padding-bottom: 5%;
+  margin-top: 4%;
 }
+#imagen_logo{
+  height: 100px;
+  width: 150px;
+}
+
+.navbar-header{
+  margin-left: -10%;
+}
+.nav_header{
+
+  margin-right: -11%;
+}
+
 .formulario{
-  padding-right: 1%;
+  padding-top: 2%;
 }
-.fa-2x{
-  padding-right: 1%;
+.nombre{
+  padding-top: 20%;
+  font-size: 2.0rem;
 }
 .span{
   font-size: 2.5rem;
@@ -17,10 +31,6 @@
   background-color: #f8f9fa;
 }
   header{
-  width: 100%;
-}
-#section4{
-  background-color: #f8f9fa;
   width: 100%;
 }
 #seccion1,#seccion2,#seccion3{
@@ -86,7 +96,9 @@ max-width: 960px;
   font-style: oblique;
   font-weight: bold;
 }
-
+#form-2{
+padding-right: 4%;
+}
 .curso-imagen{
   width: 90%;
 height: 300px;
@@ -132,7 +144,9 @@ ul,li{
 }
 
 @media (max-width: 576px) {
-
+.formulario_nav{
+  display: none;
+}
 .navbar-header{
  padding-top: 1%;
   margin-right: 30%;
