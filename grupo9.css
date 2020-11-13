@@ -25,6 +25,10 @@ padding-right: 1%;
   header{
   width: 100%;
 }
+#section4{
+  background-color: #f8f9fa;
+  width: 100%;
+}
 #seccion1,#seccion2,#seccion3{
   background-color: #D3D3D3;
   border: black 1px solid;
