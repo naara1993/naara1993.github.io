@@ -1,4 +1,12 @@
-
+.nav{
+  padding-bottom: 5%;
+}
+.formulario{
+  padding-right: 1%;
+}
+.fa-2x{
+  padding-right: 1%;
+}
 .span{
   font-size: 2.5rem;
   font-style: italic;
@@ -124,9 +132,7 @@ ul,li{
 }
 
 @media (max-width: 576px) {
-.formulario_nav{
-  display: none;
-}
+
 .navbar-header{
  padding-top: 1%;
   margin-right: 30%;
