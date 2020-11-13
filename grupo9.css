@@ -1,13 +1,11 @@
-.nav{
-  margin-top: 4%;
-}
+
 #imagen_logo{
   height: 100px;
   width: 150px;
+  padding-bottom: 1%;
 }
-
-.formulario{
-  padding-top: 2%;
+.nav_header{
+  padding-top: 1%;
 }
 .nombre{
   padding-top: 20%;
