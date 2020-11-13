@@ -2,7 +2,7 @@
 #imagen_logo{
   height: 100px;
   width: 150px;
-  padding-bottom: 1%;
+  padding-bottom: 5%;
 }
 .nav_header{
   padding-top: 1%;
@@ -21,6 +21,9 @@
   background-color: #f8f9fa;
 }
   header{
+  width: 100%;
+}
+main{
   width: 100%;
 }
 #seccion1,#seccion2,#seccion3{
