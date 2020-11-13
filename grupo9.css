@@ -1,24 +1,11 @@
-.nav{
-  margin-top: 4%;
-}
+
 #imagen_logo{
   height: 100px;
   width: 150px;
 }
 
-.navbar-header{
-  margin-left: -10%;
-}
-.nav_header{
-
-  margin-right: -11%;
-}
-
-.formulario{
-  padding-top: 2%;
-}
 .nombre{
-  padding-top: 20%;
+  padding-top: 15%;
   font-size: 2.0rem;
 }
 .span{
@@ -96,9 +83,7 @@ max-width: 960px;
   font-style: oblique;
   font-weight: bold;
 }
-#form-2{
-padding-right: 4%;
-}
+
 .curso-imagen{
   width: 90%;
 height: 300px;
