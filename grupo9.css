@@ -118,7 +118,9 @@ h4{
 footer{
   width: 100%;
 }
-
+#form{
+  padding-right: 15%;
+}
 ul,li{
   list-style: none;
   text-align: center;
