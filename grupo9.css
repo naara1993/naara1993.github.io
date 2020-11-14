@@ -144,11 +144,21 @@ footer{
   padding-right: 50%;
 }
 .imagen{
-  height: 200px;
-  width: 100%;
+ height: 300px;
+  width: 49%;
+}
+.imagenes-section{
+  padding-bottom: 2%;
+}
+.container-imagenes{
+  margin-bottom: 0.5%;
+padding-left: 2%;
 }
 #seccion1{
   margin-top: 2%;
+}
+.c-color{
+    background-color: #f8f9fa;
 }
 .texto2{
 padding-left: 20%;
@@ -172,7 +182,9 @@ padding-left: 4%;
 .formulario_nav{
   display: none;
 }
-
+.imagenes-section{
+  display: none;
+}
 .img{
   display: none;
 }
