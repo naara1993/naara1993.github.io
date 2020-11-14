@@ -2,14 +2,14 @@
 #imagen_logo{
   height: 100px;
   width: 150px;
-  padding-bottom: 5%;
+  padding-top: 1%;
 }
 .nombre{
   padding-top: 15%;
   font-size: 2.0rem;
 }
 .logo{
-  padding-bottom: 1%;
+margin-right: 10%;
 }
 .span{
   font-size: 2.5rem;
@@ -17,9 +17,7 @@
   font-weight: bold;
   color: blue;
 }
-.container-color{
-  background-color: #f8f9fa;
-}
+
   header{
   width: 100%;
 }
@@ -27,12 +25,26 @@ main{
   width: 100%;
 
 }
-#seccion1,#seccion2,#seccion3{
-  background-color: #D3D3D3;
-  border: black 1px solid;
+.btn-outline-success {
+  color: blue;
+}
+.a{
+  color:blue;
+}
+#seccion2,#seccion3{
+  background-color:#f8f9fa;
+}
+#seccion8,#seccion2{
+  border-bottom: 2px solid #424242;
+}
+#seccion7{
+  padding-top: 10%;
 }
 .container-color2{
-  background-color:  #f8f9fa;
+  background-color: #f8f9fa;
+}
+.container-color {
+  background-color: #f8f9fa;
 }
 #invitacion{
   margin-top: -4%;
@@ -42,20 +54,11 @@ main{
 .titulos{
   margin-bottom: 2%;
   text-align: center;
+  font-family: fantasy;
 }
 .titulo3{
   text-align: center;
   color: blue;
-}
-.texto2{
-  text-align: center;
-}
-figure{
-margin: 1%;
-}
-.quienes_somos{
-
-padding-left: 15%;
 }
 
 .media{
@@ -134,7 +137,7 @@ footer{
 }
 .redes{
   font-weight: bold;
-  color:black;
+  color:blue;
   padding-left: 5%;
 }
 .container-color7{
@@ -149,19 +152,24 @@ footer{
 .form-inline{
   padding-right: 50%;
 }
-ul,li{
-  list-style: none;
-  text-align: center;
+.imagen{
+  height: 200px;
+  width: 100%;
 }
-#parrafo{
-  font-style: italic;
-  font-weight: bold;
-  text-align: center;
-  padding-bottom: 5%;
+.texto2{
+padding-left: 20%;
 }
-.container-color3{
-  background-color: #DCDCDC;
-  border-top: black 1px solid;
+
+.text{
+    border: 0px;
+}
+.text1{
+  padding-right: 5%;
+  margin-left: 5%;
+  max-width: auto;
+}
+.quienes-somos{
+padding-left: 4%;
 }
 
 @media (max-width: 576px) {
