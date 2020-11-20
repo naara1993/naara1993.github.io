@@ -30,7 +30,10 @@ main{
 }
 .guia{
   font-weight: bold;
-  
+
+}
+.enlances{
+  font-size: 15px;
 }
 .a{
   color:blue;
@@ -305,5 +308,13 @@ margin-right: 60%;
 a{
   text-decoration-style: none;
 }
-
+#en{
+  font-size: 15px;
+}
+#enlance{
+  font-size: 15px;
+}
+.q{
+  font-size: 1.5rem;
+}
 }
