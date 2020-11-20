@@ -114,6 +114,7 @@ body{
       width: 110%;
 }
 .login-box label{
+  color:black;
     padding-bottom: 6%;
     margin-left: 6%;
 
@@ -121,5 +122,11 @@ body{
 .login-box input{
 margin-bottom: 25%;
 
+}
+.login-box a{
+  color:black;
+}
+.login-box h1{
+  color:black;
 }
 }
