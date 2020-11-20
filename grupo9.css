@@ -5,11 +5,11 @@
 margin-bottom: 1%;
 }
 .nombre{
-  padding-top: 10%;
+  margin-top: 7%;
   font-size: 2.0rem;
 }
 
-.span{
+#span{
   font-size: 2.5rem;
   font-style: italic;
   font-weight: bold;
@@ -21,9 +21,11 @@ margin-bottom: 1%;
 main{
   width: 100%;
 }
-.btn-outline-success {
-  color: blue;
-}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    color: blue;
+  }
+
 .a{
   color:blue;
 }
@@ -32,6 +34,9 @@ main{
 }
 #seccion8,#seccion2{
   border-bottom: 2px solid #424242;
+}
+.hr{
+  border-top: 2px solid black;
 }
 #seccion7{
   padding-top: 10%;
@@ -61,7 +66,25 @@ main{
 padding-top: 5%;
 padding-bottom: 2%;
 }
-
+.patrocinadores{
+  margin-left: 3%;
+}
+.margen{
+  display: none;
+}
+.php{
+  margin-top: 6%;
+}
+.tic{
+  margin-top: 5%;
+}
+.ti{
+  margin-top: 9%;
+}
+.cursos{
+  height: auto;
+  width: auto;
+}
 #guia{
 width: 100%;
 height: 300px;
@@ -91,7 +114,7 @@ max-width: 960px;
 }
 
 .curso-imagen{
-  width: 90%;
+  width: 100%;
 height: 300px;
 }
 #patrocinadores{
@@ -147,28 +170,25 @@ footer{
   padding-right: 50%;
 }
 
-.imagenes_{
-  width: 100%;
-  height: 425px;
+#imagenes{
+   width: 100%;
+   height: 100%;
 }
-.galeria-imagenes{
-  margin-left: 1%;
-  margin-top: 3%;
-  margin-bottom: 3%;
-  padding-left: 5%;
-  max-width: 95%;
-}
-.container-imagenes{
-  background-color: #f8f9fa;
+.item {
+height: 550px;
+width: 100%;
 }
 #seccion1{
   margin-top: 2%;
+}
+.container-carrousel{
+  background-color: #f8f9fa;
 }
 .c-color{
     background-color: #f8f9fa;
 }
 .texto2{
-padding-left: 20%;
+padding-left: 25%;
 }
 
 .text{
@@ -184,14 +204,18 @@ padding-left: 20%;
 .quienes-somos{
 padding-left: 12%;
 }
-
+.imagen_personas{
+  width: 250px;
+  height: 200px;
+  border-radius: 60%;
+  margin: 1%;
+  margin-left: -5%;
+}
 @media (max-width: 576px) {
 .formulario_nav{
   display: none;
 }
-.imagenes-section{
-  display: none;
-}
+
 .img{
   display: none;
 }
@@ -203,9 +227,13 @@ padding-left: 12%;
   padding-top: 8%;
 }
 
-.imagenes_ {
+#imagenes {
   width: 100%;
   height: 150px;
+}
+.item {
+height: auto;
+width: 100%;
 }
 #imagen_logo{
 display: none;
@@ -215,14 +243,7 @@ span{
   font-style: italic;
   font-weight: bold;
 }
-.quienes_somos{
-display: none;
 
-}
-
-.patrocinadores{
-  margin-left: 23%;
-}
 #invitacion{
   height: 100px;
   width: 100px;
@@ -253,8 +274,11 @@ article{
   width: 60px;
   height: 60px;
 }
+.quienes-somos{
+display: none;
+}
 .Cursos{
-margin-right: 40%;
+margin-right: 60%;
 
 }
 #id{
