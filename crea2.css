@@ -11,7 +11,7 @@ body{
   background: #000000;
   color: #fff;
   width: 35%;
-    height: 560px;
+  height: 100%;
 padding-right: 1%
 
 }
@@ -80,7 +80,9 @@ color: darkgrey;
 .login-box a:hover {
 color: #fff;
 }
-
+a{
+  background-color: black;
+}
 @media (max-width : 570px) {
 
 .imagen{
@@ -88,6 +90,7 @@ color: #fff;
 }
 body{
   background: none;
+    background-color: #f8f9fa;
 }
 
 .row{
@@ -95,9 +98,10 @@ body{
 }
 .container{
   height: 100vh;
+    background-color: #f8f9fa;
 }
 .login-box{
-  background: #000;
+  background-color: #f8f9fa;
       color: #fff;
       padding-top: 3%;
       padding-right: 3%;
@@ -107,11 +111,21 @@ body{
 }
 .login-box label{
     padding-bottom: 6%;
-    margin-left: 6%;
-
+    margin-left:0;
+    color:black;
 }
 .login-box input{
+  color:black;
 margin-bottom: 25%;
 
+}
+.login-box a{
+  color:black;
+}
+.login-box span {
+  color:black;
+}
+hr{
+  border: 1px solid black;
 }
 }
