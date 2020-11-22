@@ -10,7 +10,7 @@
 }
 .m{
   margin-left: 10px;
-  margin: 20px;
+  margin: 23px;
 }
 
 #nav2{
@@ -18,12 +18,12 @@ margin-top: 2%;
 
 }
 #nv{
-  margin-top: 3%;
+  margin-top: 4%;
   margin-left: 30px;
 }
 #n{
-  padding-left:0 ;
   color:blue;
+  margin-right: -6px;
 }
 
 .nombre{
@@ -244,10 +244,11 @@ padding-left: 25%;
 .quienes-somos{
 padding-left: 12%;
 }
+
 .imagen_personas{
-  width: 220px;
-  height: 200px;
-  border-radius: 60%;
+  width: 95%;
+  height: auto;
+  border-radius: 40%;
   margin: 1%;
   padding-right: 7%;
 }
