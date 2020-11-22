@@ -316,9 +316,9 @@ span{
   font-size: 1.5rem;
 }
 #invitacion{
-  height: 100px;
-  width: 100px;
-margin: auto;
+  height: 230px;
+  width: 230px;
+  margin: 5px;
 padding: auto;
 }
 .seccion2{
@@ -338,12 +338,12 @@ article{
   font-weight: bold;
 }
 #aprendizaje{
-  width: 60px;
-  height: 60px;
+  width: 130px;
+  height: 100px;
 }
 #cursos{
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
 }
 .quienes-somos{
 display: none;
@@ -399,8 +399,8 @@ span{
   font-size: 1.5rem;
 }
 #invitacion{
-  height: 100px;
-  width: 100px;
+  width: 177px;
+  height: 160px;
 margin: auto;
 padding: auto;
 }
