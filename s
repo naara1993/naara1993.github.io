@@ -24,17 +24,12 @@
 margin-top: 2%;
 
 }
-.reseña{
-
-  margin: 2%;
-  margin-top: 3%;
-}
 .p-reseña{
   font-family: cursive;
   font-weight: 600;
   font-style: italic;
   margin-top: 2%;
-  width: 100%;
+  width: 90%;
 }
 .t-reseña{
   margin-top: 2%;
