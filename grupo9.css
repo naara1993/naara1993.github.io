@@ -50,7 +50,7 @@ margin-top: 2%;
   margin-left: 30px;
 }
 #n{
-  margin-right: -4%;
+
     color: blue;
     font-size: 15px
   color:blue;
@@ -58,7 +58,10 @@ margin-top: 2%;
 }
 
 .nombre{
+  margin-left: -2%;
+  font-style: italic;
   font-size: 2.0rem;
+  margin-bottom: 2%;
 }
 #span{
 
