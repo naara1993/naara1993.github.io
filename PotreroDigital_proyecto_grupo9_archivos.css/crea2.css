@@ -1,0 +1,131 @@
+body{
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+  background: url("i.jpg") no-repeat center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
+.login-box{
+  background: #000000;
+  color: #fff;
+  width: 35%;
+  height: 100%;
+padding-right: 1%
+
+}
+.container-login-box{
+  margin-top: 5%;
+}
+.container{
+
+margin-right: 5%;
+}
+.imagen{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-left: 30%;
+
+}
+.login-box h1{
+  margin-bottom: 15%;
+  text-align: center;
+  font-size: 22px;
+  padding-left: 2%;
+  padding-right: 10%;
+}
+.login-box label {
+margin: 0;
+padding: 0;
+font-weight: bold;
+}
+
+.login-box input {
+width: 100%;
+margin-bottom: 20px;
+}
+
+.form{
+  height: 590px;
+}
+.login-box .formulario{
+  margin-left: 5%;
+}
+
+.login-box input[type="submit"] {
+border: none;
+outline: none;
+height: 40px;
+background: #b80f22;
+color: #fff;
+font-size: 18px;
+border-radius: 20px;
+}
+.login-box input[type="submit"]:hover {
+cursor: pointer;
+background: #ffc107;
+color: #000;
+}
+
+
+.login-box a {
+text-decoration: none;
+font-size: 12px;
+line-height: 20px;
+color: darkgrey;
+}
+
+.login-box a:hover {
+color: #fff;
+}
+a{
+  background-color: black;
+}
+@media (max-width : 570px) {
+
+.imagen{
+  display: none;
+}
+body{
+  background: none;
+    background-color: #f8f9fa;
+}
+
+.row{
+  width:  100%;
+}
+.container{
+  height: 100vh;
+    background-color: #f8f9fa;
+}
+.login-box{
+  background-color: #f8f9fa;
+      color: #fff;
+      padding-top: 3%;
+      padding-right: 3%;
+      height: 110%;
+      margin-top: -6%;
+      width: 110%;
+}
+.login-box label{
+    padding-bottom: 6%;
+    margin-left:0;
+    color:black;
+}
+.login-box input{
+  color:black;
+margin-bottom: 25%;
+
+}
+.login-box a{
+  color:black;
+}
+.login-box span {
+  color:black;
+}
+hr{
+  border: 1px solid black;
+}
+}

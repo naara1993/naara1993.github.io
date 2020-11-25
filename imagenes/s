@@ -1,0 +1,541 @@
+
+
+#imagen_logo{
+  height: 60px;
+  width: 70px;
+
+
+}
+.in{
+  font-family: cursive;
+  font-size: 1.5rem;
+}
+.guia{
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: oblique;
+}
+.m{
+  margin-left: 10px;
+  margin: 25px;
+}
+
+#nav2{
+margin-top: 2%;
+
+}
+.p-reseña{
+  font-family: cursive;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 2%;
+  width: 90%;
+}
+.t-reseña{
+  margin-top: 2%;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 2.0rem;
+  color:red;
+  text-align: center;
+}
+#nv{
+  margin: 10px;
+  margin-top: 3%;
+  margin-left: 30px;
+}
+#n{
+  margin-right: -4%;
+    color: blue;
+    font-size: 15px
+  color:blue;
+
+}
+
+.nombre{
+  font-size: 2.0rem;
+}
+#span{
+
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    color: blue;
+  }
+.titulos{
+  margin-top: 3%;
+}
+.guia{
+  font-weight: bold;
+
+}
+#label {
+  color:blue;
+  margin-right: 1%;
+}
+.enlances{
+  font-size: 15px;
+}
+.a{
+  color:blue;
+}
+#seccion2,#seccion3{
+  background-color:#f8f9fa;
+}
+#seccion8,#seccion2{
+  border-bottom: 2px solid #424242;
+}
+.hr{
+  border-top: 2px solid black;
+}
+#seccion7{
+  padding-top: 5%;
+}
+#seccion8{
+  margin-top: 5%;
+}
+.q{
+  font-style: italic;
+  font-size: 2.0rem;
+}
+.container-color2{
+  background-color: #f8f9fa;
+}
+.container-color {
+  background-color: #f8f9fa;
+}
+#invitacion{
+  margin-top: -4%;
+  width: 230px;
+  height: 200px;
+}
+.titulos{
+  margin-bottom: 2%;
+  text-align: center;
+  font-family: fantasy;
+}
+.titulo3{
+  text-align: center;
+  color: blue;
+}
+
+.media{
+padding-top: 5%;
+padding-bottom: 2%;
+}
+.patrocinadores{
+  margin-left: 3%;
+}
+.margen{
+  display: none;
+}
+.php{
+  margin-top: 6%;
+}
+.tic{
+  margin-top: 5%;
+}
+.ti{
+  margin-top: 9%;
+}
+
+.cursos{
+  height: auto;
+  width: auto;
+}
+#guia{
+width: 100%;
+height: 300px;
+}
+#quienessomos{
+width: 100%;
+height: 300px;
+}
+#invi{
+  width: 100%;
+  height: 300px;
+}
+#galeria-cursos{
+width: 100%;
+max-width: 960px;
+}
+#seccion-cursos{
+  margin-top: 2%;
+  width: 100%;
+}
+.texto{
+  margin:5%;
+  padding-right: 7%;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.curso-imagen{
+  width: 100%;
+height: 300px;
+}
+#patrocinadores{
+  padding-left: 2%;
+}
+.rounded-circle{
+  height: 50px;
+  width: 50px;
+  margin:1%;
+}
+h5{
+  font-weight: bold;
+}
+
+
+hr{
+ width: 60px;
+ border: 1px solid black;
+}
+.enlances{
+  padding-left: 5%;
+}
+h4{
+    padding-bottom: 5%;
+   padding-top: 5%;
+   font-style: italic;
+  }
+  p{
+    font-weight: bold;
+    font-style: italic;
+  }
+footer{
+  width: 100%;
+}
+.container-3{
+  padding-top: 1%;
+}
+.redes{
+  font-weight: bold;
+  color:blue;
+  padding-left: 5%;
+}
+.container-color7{
+  background-color: #424242;
+}
+.container-color4{
+  background-color: #D3D3D3;
+}
+.container-color5{
+  background-color:#D3D3D3;
+}
+.form-inline{
+  width: 100%;
+  margin: 1%;
+  padding-left: 1%;
+
+}
+
+#imagenes{
+   width: 100%;
+   height: 100%;
+}
+.item {
+height: 550px;
+width: 100%;
+}
+#seccion1{
+  margin-top: 2%;
+}
+.container-carrousel{
+  background-color: #f8f9fa;
+}
+.c-color{
+    background-color: #f8f9fa;
+}
+.texto2{
+padding-left: 25%;
+}
+
+.text{
+    border: 0px;
+}
+.text1{
+  padding-left: 5%;
+  max-width: 200px;
+}
+.t{
+  padding-left: 5%;
+}
+.quienes-somos{
+padding-left: 12%;
+}
+
+.imagen_personas{
+  width: 95%;
+  height: auto;
+  border-radius: 40%;
+  margin: 1%;
+  padding-right: 7%;
+}
+#end-parrafo,#back-parrafo{
+  font-family: cursive;
+  font-size: 1.5rem;
+  width: 70%;
+  margin-top: 3%;
+  margin-bottom: 1%;
+  font-weight: bold;
+}
+.pp{
+  width: 60%;
+  font-family: cursive;
+  font-size: 2.0rem;
+}
+.nuestra{
+  padding-left: 9%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+.tt{
+   margin-left: 5%;
+  color:red;
+  font-weight: bold;
+  font-family:fantasy;
+  font-style: italic;
+}
+
+.br{
+  color:red;
+  text-decoration: inherit;
+  font-weight: bold;
+}
+.end,.back{
+  text-decoration: underline;
+  color:red;
+  font-style: italic;
+  font-family: fantasy;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+p {
+    margin: 10px 10px 10px;
+
+}
+
+nav{
+  width: 100%;
+}
+
+
+
+
+
+
+@media (max-width: 976px){
+  #n{
+    color:blue;
+    margin-right: -6px;
+  }
+
+    .pp{
+      font-family: cursive;
+      font-size: 1.5rem;
+      width: 100%;
+    }
+    .nuestra {
+      width: 100%;
+      margin-left: 3%;
+  }
+  .nuestra {
+      margin-top: 5%;
+      margin-bottom: 5%;
+  }
+
+    .tt{
+      color:red;
+      font-weight: bold;
+      font-family:fantasy;
+      font-style: italic;
+    }
+
+#imagenes {
+  width: 100%;
+  height: 450px;
+}
+
+.item {
+height: auto;
+width: 100%;
+}
+span{
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.br{
+  font-size: 1.5rem;
+}
+#invitacion{
+  height: 230px;
+  width: 230px;
+  margin: 5px;
+padding: auto;
+}
+.seccion2{
+  margin-top: -2%;
+}
+article{
+  width: auto;
+  height: auto;
+  margin-left: 2%;
+}
+#titulo5{
+  font-size: 1.5rem;
+}
+.contenido-seccion3{
+  font-style: italic;
+  font-size: 20%;
+  font-weight: bold;
+}
+#aprendizaje{
+  width: 130px;
+  height: 100px;
+}
+#cursos{
+  width: 100px;
+  height: 100px;
+}
+
+#id{
+  margin-right: 5%;
+}
+.curso-imagen {
+    width: 90%;
+    height: 300px;
+    margin-left: 6%;
+}
+
+a{
+  text-decoration-style: none;
+}
+#en{
+  font-size: 15px;
+}
+#enlance{
+  font-size: 15px;
+}
+.q{
+  font-size: 1.5rem;
+      margin: 29px 10px 15px;
+}
+
+
+
+}
+
+
+@media (max-width: 767px) {
+
+  .pp{
+    font-family: cursive;
+    font-size: 1.5rem;
+    width: 100%;
+  }
+  .nuestra{
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-left: 0%;
+}
+  .tt{
+    color:red;
+    font-weight: bold;
+    font-family:fantasy;
+    font-style: italic;
+  }
+
+
+
+
+
+  #n{
+    color:blue;
+    margin-right: 10px;
+  }
+#imagenes {
+  width: 100%;
+  height: 290px;
+}
+.item {
+height: auto;
+width: 100%;
+}
+#imagen_logo{
+display: none;
+}
+span{
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.br{
+  font-size: 1.5rem;
+}
+#invitacion{
+  width: 177px;
+  height: 160px;
+margin: auto;
+padding: auto;
+}
+.seccion2{
+  margin-top: -2%;
+}
+article{
+  width: auto;
+  height: auto;
+  margin-left: 2%;
+}
+#titulo5{
+  font-size: 1.5rem;
+}
+.contenido-seccion3{
+  font-style: italic;
+  font-size: 20%;
+  font-weight: bold;
+}
+#aprendizaje{
+  width: 120px;
+  height: 130px
+}
+#cursos{
+  width: 60px;
+  height: 60px;
+}
+.quienes-somos{
+display: none;
+}
+
+#id{
+  margin-right: 5%;
+}
+.curso-imagen {
+    width: 90%;
+    height: 300px;
+    margin-left: 6%;
+}
+
+a{
+  text-decoration-style: none;
+}
+#en{
+  font-size: 15px;
+}
+#enlance{
+  font-size: 15px;
+}
+.q{
+  font-size: 1.5rem;
+}
+}
